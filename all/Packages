@@ -5571,9 +5571,9 @@ Version: 0.4-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: da7f5796f028cdf16d3b55947de8153d
-SHA256sum: 7f0bd119b43079189d9f2be36f423115fafaf5136f3dfbf8681a7011f7210250
-Size: 580
+MD5Sum: f3ac2c52bd2277c5303d3c37380ff8ab
+SHA256sum: 8c8cb05d305634d1f4d1269498a25b507f9f69ecf7c8cc00db47b245402166cd
+Size: 584
 Filename: livestreamersrv-dbg_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Debugging files
@@ -5588,9 +5588,9 @@ Recommends: livestreamersrv (= 0.4-r0), python3-core-dev, streamlink-dev
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: f7d534f773ccb74c99832616ce831b94
-SHA256sum: cecffeb069c07dfed194b4435ea7aa89af23dc673e232946a6d8c9c3d006377d
-Size: 636
+MD5Sum: 6e224ccb6c8927e6f6c6c8a7424d11a0
+SHA256sum: 4972514026979054b587fa53ad63b630bfc4666a4ddd7c8fe35349eb66b9f3be
+Size: 640
 Filename: livestreamersrv-dev_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Development files
@@ -5605,9 +5605,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: 8ad2c2304f2b344c73b9461967b4bc72
-SHA256sum: f8fe97347e1ca0b17616264a6f986098e886699200993cb496025111131ad63a
-Size: 77076
+MD5Sum: c15de778fc5434cb046c2ab6e84c39f1
+SHA256sum: e7846907d5d841cd07005a6a0f1065e689d367469ec384cd25fb61f7bf0b4266
+Size: 77078
 Filename: livestreamersrv_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0
@@ -6115,8 +6115,8 @@ Version: 1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 887a4a4ebad1cc0cc4c246fced262ff3
-SHA256sum: f40186302aa2bcc04d585f3914843f60ed1c70eeabd1618277796fcc029945f7
+MD5Sum: 6573ec32de9b955fcce7c5477e351a25
+SHA256sum: fb01ce8dcfcf1cb43651560fd085c0aa5e218b711874ef8b1c4a015c00e7831c
 Size: 608
 Filename: streamlinksrv-dbg_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
@@ -6132,8 +6132,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.2+git25+c7ae8
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 579c21c01d3d996db2fcdb684a030fc7
-SHA256sum: 6c54b1f52dd09ac8a4e9d1e4c7b3faf23e29578f0c028339570797d5c9b29db4
+MD5Sum: 01f520e71b36aeaf87293dd6229a8d41
+SHA256sum: d3ba67927b91ad222a5965a301382d76aca745ab069b23befc2cb2291ebcfbc2
 Size: 658
 Filename: streamlinksrv-dev_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
@@ -6149,8 +6149,8 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 84d2578790523193db72893c5ec63ff6
-SHA256sum: 2e41985b2af1b5f0aa471caee53080667fda529e21770244400cd38f6fcd04fd
+MD5Sum: 0a0eaa74187a207ea5dcbe93e73c189c
+SHA256sum: e95083cb6aca870487580a5d71465cd2474cfa628580713a67f4af369f91d086
 Size: 85882
 Filename: streamlinksrv_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
